@@ -24,7 +24,7 @@ public class bubblePrint {
         }
         System.out.println("Array is sorted in " + totalSwaps + " swaps.");
         System.out.println("First Element: " + a[0]);
-        System.out.println("First Element: " + a[n - 1]);
+        System.out.println("Last Element: " + a[n - 1]);
     }
     
     public static void main(String[] args) {
